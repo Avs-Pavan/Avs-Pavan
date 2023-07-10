@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning ... GO language & Echo framework
 - 👯 I’m looking to collaborate on ... Go projects
 - 📫 How to reach me: ...
-- * [LinkedIn](https://www.linkedin.com/in/varepalli/)
-- * [Email](mailto:avs.pavan@gmail.com)
+  - * [LinkedIn](https://www.linkedin.com/in/varepalli/)
+  - * [Email](mailto:avs.pavan@gmail.com)
 - 😄 Pronouns: ... KevinOcconer
 - ⚡ Fun fact: ... 
 
