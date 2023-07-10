@@ -1,25 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Avs-Pavan/Avs-Pavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on ... Full stack development
+- 🌱 I’m currently learning ... GO language & Echo framework
+- 👯 I’m looking to collaborate on ... Go projects
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-# Avs-Pavan's GitHub Profile
-
-This repository contains my GitHub profile README. It is a living document that I will update as I continue to learn and grow as a developer.
-
+- * [LinkedIn](https://www.linkedin.com/in/varepalli/)
+- * [Email](mailto:avs.pavan@gmail.com)
+- 😄 Pronouns: ... KevinOcconer
+- ⚡ Fun fact: ... 
 
 ## Skills
 
