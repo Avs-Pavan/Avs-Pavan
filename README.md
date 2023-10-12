@@ -14,9 +14,7 @@
 ## Skills
 
 * Programming Languages: Java, Kotlin, JavaScript, C, Python.
-* Mobile development:
-**    Android application development using Java and Kotlin.
-**    Android application development using React Native.
+* Mobile development: Android application development using Java and Kotlin. Android application development using React Native.
 * Web Development Backend: Java, J2EE, SpringBoot, NodeJs, ExpressJs.
 * Web Development Frontend: Jsp, ReactJs, NextJs, Angular, Vue, Vuetify, HTML, CSS.
 * Tools: Kafka, ActiveMq, RabbitMq.
