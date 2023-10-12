@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ... Full stack development
+- 🔭 I’m currently working on full-stack development
 - 🌱 I’m currently learning ... GO language & Echo framework
 - 👯 I’m looking to collaborate on ... Go projects
 - 📫 How to reach me: ...
@@ -13,9 +13,12 @@
 
 ## Skills
 
-* Programming Languages: Python, Java, Kotlin, JavaScript, C/C++
-* Web Development: HTML, CSS, JavaScript, React, Vue, Flask, ExpressJs, 
-* Cloud Computing: AWS, Heroku
+* Programming Languages: Java, Kotlin, JavaScript, C, Python.
+* Web Development Backend: Java, J2EE, SpringBoot, NodeJs, ExpressJs.
+* Web Development Frontend: Jsp, ReactJs, NextJs, Angular, Vue, Vuetify, HTML, CSS.
+* Tools: Kafka, ActiveMq, RabbitMq.
+* DevOps: Docker, K8, Jenkins, Github Actions.
+* Cloud Computing: AWS, Azure, Heroku.
 
 
 ## Contact Me
