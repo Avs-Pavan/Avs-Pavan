@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on full-stack development
-- 🌱 I’m currently learning ... GO language & Echo framework
-- 👯 I’m looking to collaborate on ... Go projects
+- 🔭 I’m currently working on Android application development
+- 🌱 I’m currently learning ... Clean code using Koltin
+- 👯 I’m looking to collaborate on ... Kotlin projects
 - 📫 How to reach me: ...
   - * [LinkedIn](https://www.linkedin.com/in/varepalli/)
   - * [Email](mailto:avs.pavan@gmail.com)
