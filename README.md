@@ -5,11 +5,6 @@
 - 🔭 I’m currently working on Android application development
 - 🌱 I’m currently learning ... Clean code using Koltin
 - 👯 I’m looking to collaborate on ... Kotlin projects
-- 📫 How to reach me: ...
-  - * [LinkedIn](https://www.linkedin.com/in/varepalli/)
-  - * [Email](mailto:avs.pavan@gmail.com)
-- 😄 Pronouns: ... KevinOcconer
-- ⚡ Fun fact: ... 
 
 ## Skills
 
@@ -21,10 +16,5 @@
 * DevOps: Docker, K8, Jenkins, Github Actions.
 * Cloud Computing: AWS, Azure, Heroku.
 
-
-## Contact Me
-
-* [LinkedIn](https://www.linkedin.com/in/varepalli/)
-* [Email](mailto:avs.pavan@gmail.com)
 
 
