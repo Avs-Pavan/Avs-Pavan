@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Android application development
-- 🌱 I’m currently learning ... Clean code using Koltin
+- 🌱 I’m currently learning ... Clean code using Kotlin
 - 👯 I’m looking to collaborate on ... Kotlin projects
 
 ## Skills
